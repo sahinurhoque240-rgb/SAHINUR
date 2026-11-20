@@ -1,0 +1,7 @@
+.gradle/
+build/
+app/build/
+local.properties
+gradle-8.9/
+gradle-8.9-bin.zip
+wrapper-log.txt
